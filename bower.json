@@ -1,0 +1,17 @@
+{
+  "name": "turkish-uppercase-transform",
+  "homepage": "https://github.com/osmanorhan/turkishuppercasetransform",
+  "authors": [
+    "osman orhan"
+  ],
+  "description": "jQuery türkçe css uppercase eklentisi",
+  "main": "turkish-uppercase-transform.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

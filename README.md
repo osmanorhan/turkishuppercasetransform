@@ -1,5 +1,9 @@
 Türkçe olmayan HTML elementlerinde css uppercase eksik/hatalı türkçe harf hatalarını gidermek için basit bir jquery eklentisi.
 
+#Bower
+
+bower install turkish-uppercase-transform
+
 #Kullanım
 
 ```javascript
